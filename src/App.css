@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+  background-color: rgb(30, 30, 30);
+  color: white;
+}
+
+html{
+  background-color: rgb(30, 30, 30);
+}
+
+#searchBar{
+  margin-left: 350px;
+  margin-bottom: 10px;
+  width: 30%;
+}
+form{
+  margin-bottom: 30px;
+}
+.element{
+  background-color: rgb(50, 50, 50);
+  width: 300px;
+  margin: auto;
+  margin-bottom: 30px;
+  padding-bottom: 5px;
+}
+h2{
+  color: white;
+  text-decoration: none;
+}
+img{
+  width: 300px;
+  height: 200px;
+}
+.heading{
+  color: #1db954;
+  margin-top: 40px;
+}
+.margin{
+  background-color: rgb(20, 20, 20);
+  height: 610px;
+  max-height: 100%;
+}
+#spotifyLogo{
+  height: 100px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.login{
+  margin-top: 30px;
+  color: #1db954;
+  margin-bottom: 20px;
+}
+.icon{
+  width: 40px;
+  height: 40px;
+  margin-right: 20px;
+  margin-left: 75px;
+}
+.marginText{
+  font-size: larger;
+  color: white;
+  font-weight: bold;
+}
+.marginText:hover{
+  color: #1db954;
+}
+.marginElement{
+  padding: 10px 0;
+}
+.marginElement:hover{
+  background-color: rgb(50, 50, 50);
+}
+#home{
+  margin-left: 0;
+}
+#library{
+  margin-left: 5px;
+}
